@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20162#La-kolonoj-de-la-socio--Dramo-en-kvar-aktoj
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-12-22'
 gutenberg_type: Text
